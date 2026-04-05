@@ -4,7 +4,7 @@
 
 ## 데모
 
-![demo](demo.gif)
+![demo](assets/ar_output.mp4)
 
 ## 사용법
 
