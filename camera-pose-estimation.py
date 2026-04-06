@@ -251,6 +251,7 @@ def run_ar(video_path, model_path):
         ret, frame = cap.read()
         if not ret:
             break
+        frame = cv2.undistort(frame, K, dist)
 
         frame_idx += 1
         gray  = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
