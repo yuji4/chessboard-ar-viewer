@@ -4,7 +4,7 @@
 
 ## 데모
 
-![demo](assets/ar_output.mp4)
+![demo](https://github.com/user-attachments/assets/a819d668-062b-41cd-865e-0ffc3a61a048)
 
 ## 사용법
 
