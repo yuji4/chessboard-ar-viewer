@@ -4,7 +4,8 @@
 
 ## 데모
 
-![demo](https://github.com/user-attachments/assets/a819d668-062b-41cd-865e-0ffc3a61a048)
+![demo-original](https://github.com/user-attachments/assets/a819d668-062b-41cd-865e-0ffc3a61a048)
+![demo-undistortion](https://github.com/user-attachments/assets/eb9944a2-e82b-4041-9f60-7e109941a001)
 
 ## 캘리브레이션 결과
 
